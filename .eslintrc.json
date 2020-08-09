@@ -25,7 +25,5 @@
       "typescript": {}
     }
   },
-  "rules": {
-    "prettier/prettier": "error"
- }
+  "rules": {}
 }
