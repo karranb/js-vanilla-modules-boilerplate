@@ -11,9 +11,7 @@
     "target": "es6",
     "allowJs": true,
     "baseUrl": ".",
-    "paths": {
-      "_utils": ["./src/utils/"]
-    },
+    "paths": {},
   },
   "include": [
     "src/**/*",
