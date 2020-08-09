@@ -1,14 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "./dist/",
     "noImplicitAny": true,
-    "lib": [
-      "es6",
-      "DOM"
-    ],
-    "module": "es6",
-    "moduleResolution": "node",
-    "target": "es6",
     "allowJs": true,
     "baseUrl": ".",
     "paths": {},
