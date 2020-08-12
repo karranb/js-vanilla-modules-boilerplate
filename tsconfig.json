@@ -2,8 +2,9 @@
   "compilerOptions": {
     "noImplicitAny": true,
     "allowJs": true,
-    "baseUrl": ".",
+    "baseUrl": "src",
     "paths": {},
+    "lib": ["ES2018", "DOM"],
   },
   "include": [
     "src/**/*",
