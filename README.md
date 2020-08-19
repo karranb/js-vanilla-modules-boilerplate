@@ -1,2 +1,7 @@
-# Typescript + Babel + Webpack + ESLint + Prettier Boilerplate
-Typescript + Babel + Webpack + ESLint + Prettier Boilerplate
+# Vanilla JS Modules Boileplate
+Babel
+ESLint
+Jest
+Prettier
+Typescript
+Webpack

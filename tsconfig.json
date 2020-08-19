@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
     "noImplicitAny": true,
     "allowJs": true,
     "baseUrl": "src",
@@ -7,6 +8,7 @@
     "lib": ["ES2018", "DOM"],
   },
   "include": [
-    "src/**/*",
+    "src",
+    "__tests__",
   ]
 }
