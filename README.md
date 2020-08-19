@@ -1,7 +1,7 @@
 # Vanilla JS Modules Boileplate
-Babel
-ESLint
-Jest
-Prettier
-Typescript
-Webpack
+- Babel
+- ESLint
+- Jest
+- Prettier
+- Typescript
+- Webpack
